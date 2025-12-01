@@ -1,0 +1,12 @@
+title: "Alec Richards"
+description: "Personal site of Alec Richards"
+baseurl: "" # important: empty for user site
+url: "https://richardsalec.github.io"
+
+theme: minima
+
+author:
+  name: "Alec Richards"
+
+# Optional tweak: show excerpts on the home page when you add posts
+show_excerpts: true
